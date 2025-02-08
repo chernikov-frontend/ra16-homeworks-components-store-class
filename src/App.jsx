@@ -1,5 +1,4 @@
-import React from "react";
-import ShopItemClass from "./components/ShopItemClass"; 
+import ShopItemClass from "./components/ShopItemClass";
 import "./App.css";
 
 function App() {
